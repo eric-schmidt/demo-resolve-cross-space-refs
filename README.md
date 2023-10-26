@@ -1,4 +1,4 @@
-# Demo - Resolve Cross-Space References
+# Demo - Resolve Contentful Cross-Space References
 
 This demo showcases how to automatically resolve Contentful cross-space references using the JavaScript client library.
 
